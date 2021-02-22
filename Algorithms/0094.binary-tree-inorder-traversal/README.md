@@ -57,7 +57,9 @@ Recursive solution is trivial, could you do it iteratively?
 
 ##  解题思路
 
-
+最艒單的就是直接使用 recursive 來解
 
 ##  可能的變化
 
+- iteration
+  - DFS

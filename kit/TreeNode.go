@@ -217,3 +217,33 @@ func Tree2ints(tn *TreeNode) []int {
 
 	return res[:i]
 }
+
+func BuildTreeHelper(ins ...interface{}) *TreeNode {
+	root := &TreeNode{Val: ins[0].(int)}
+
+	queue := []*TreeNode{root}
+
+	var first *TreeNode
+	for i := 0; i < len(ins)-1; {
+		first, queue = queue[0], queue[1:]
+
+		i++
+		if i < len(ins) {
+			v := ins[i]
+			if v != nil {
+				first.Left = &TreeNode{Val: v.(int)}
+				queue = append(queue, first.Left)
+			}
+		}
+
+		i++
+		if i < len(ins) {
+			v := ins[i]
+			if v != nil {
+				first.Right = &TreeNode{Val: v.(int)}
+				queue = append(queue, first.Right)
+			}
+		}
+	}
+	return root
+}

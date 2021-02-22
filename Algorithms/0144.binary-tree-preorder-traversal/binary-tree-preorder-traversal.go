@@ -24,13 +24,35 @@ type TreeNode = kit.TreeNode
  * }
  */
 func preorderTraversal(root *TreeNode) []int {
+	// recursive
+	// if root == nil {
+	// 	return []int{}
+	// }
+
+	// res := []int{root.Val}
+	// res = append(res, preorderTraversal(root.Left)...)
+	// res = append(res, preorderTraversal(root.Right)...)
+	// return res
+
+	// # iteration DFS, stack
 	if root == nil {
 		return []int{}
 	}
 
-	res := []int{root.Val}
-	res = append(res, preorderTraversal(root.Left)...)
-	res = append(res, preorderTraversal(root.Right)...)
+	res := []int{}
+	stack := []*TreeNode{root}
+
+	var top *TreeNode
+	for len(stack) > 0 {
+		top, stack = stack[len(stack)-1], stack[:len(stack)-1]
+		res = append(res, top.Val)
+		if top.Right != nil {
+			stack = append(stack, top.Right)
+		}
+		if top.Left != nil {
+			stack = append(stack, top.Left)
+		}
+	}
 	return res
 }
 

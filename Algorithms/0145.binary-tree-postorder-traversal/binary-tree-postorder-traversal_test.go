@@ -4,15 +4,19 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
+
+	"github.com/cage1016/LeetCode-in-Go/kit"
 )
 
 // tcs is testcase slice
 var tcs = []struct {
 	root *TreeNode
-	ans []int
+	ans  []int
 }{
-
-
+	{
+		root: kit.BuildTreeHelper(5, 4, 6, 1, 2),
+		ans:  []int{1, 2, 4, 6, 5},
+	},
 
 	// 可以有多个 testcase
 }

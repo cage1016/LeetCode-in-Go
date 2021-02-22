@@ -57,6 +57,15 @@ Recursive solution is trivial, could you do it iteratively?
 
 ##  解题思路
 
+修改一下前序遍歷即可
+
+preorder: center, left, right
+
+// 加入 stack 的順序換一下
+center, right, left 再 reverse 就是 postorder
+
+postorder: left, right, center
+
 
 
 ##  可能的變化
