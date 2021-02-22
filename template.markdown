@@ -16,8 +16,6 @@
 {{.AvailableTable}}
 以下免费的算法题，暂时不能提交 Go 解答
 
-{{.UnavailableList}}
-
 ## helper
 
 [helper](./Helper) 会处理大部分琐碎的工作。
