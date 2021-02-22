@@ -1,4 +1,4 @@
 build:
-	@go build
-	@mv Helper ../helper
+	@go build -o gen
+	@mv gen ../gen
 

@@ -51,7 +51,7 @@ func build(p problem) {
 		}
 	}()
 
-    // windows用户注释这两行
+	// windows用户注释这两行
 	mask := syscall.Umask(0)
 	defer syscall.Umask(mask)
 
@@ -98,15 +98,22 @@ var typeMap = map[string]string{
 }
 
 func creatGo(p problem, function, ansType string) {
-	fileFormat := `package %s
+	fileFormat := `/*
+* @lc app=leetcode id=%d lang=golang
+*/
+
+package %s
 %s
+
+// @lc code=start
 %s
+// @lc code=end
 `
 
 	treeNodeDefine := ""
 	if strings.Contains(function, "*TreeNode") {
 		treeNodeDefine = `
-import "github.com/aQuaYi/LeetCode-in-Go/kit"
+import "github.com/cage1016/LeetCode-in-Go/kit"
 
 // TreeNode is pre-defined...
 // type TreeNode struct {
@@ -119,7 +126,7 @@ type TreeNode = kit.TreeNode
 `
 	}
 
-	content := fmt.Sprintf(fileFormat, p.packageName(), treeNodeDefine, function)
+	content := fmt.Sprintf(fileFormat, p.ID, p.packageName(), treeNodeDefine, function)
 
 	if v, ok := typeMap[ansType]; ok {
 		content = strings.Replace(content, "nil", v, 1)
@@ -129,7 +136,7 @@ type TreeNode = kit.TreeNode
 
 	write(filename, content)
 
-	vscodeOpen(filename)
+	// vscodeOpen(filename)
 }
 
 func creatGoTest(p problem, fcName, para, ansType string) {
@@ -188,7 +195,7 @@ import (
 
 	write(filename, content)
 
-	vscodeOpen(filename)
+	// vscodeOpen(filename)
 
 }
 

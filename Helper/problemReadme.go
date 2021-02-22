@@ -16,7 +16,7 @@ func creatREADME(p problem, s string) {
 
 	questionDescription := strings.TrimSpace(getDescription(p.link()))
 
-	content := fmt.Sprintf(fileFormat, p.ID, p.Title, p.link(), questionDescription) + s + "\n\n## 解题思路\n\n## 可能的變化"
+	content := fmt.Sprintf(fileFormat, p.ID, p.Title, p.link(), questionDescription) + s + "<h2> 解题思路<h2> 可能的變化"
 
 	content = replaceCharacters(content)
 
@@ -26,7 +26,7 @@ func creatREADME(p problem, s string) {
 
 	write(filename, content)
 
-	vscodeOpen(filename)
+	// vscodeOpen(filename)
 
 }
 
