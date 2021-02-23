@@ -1,14 +1,14 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-23T10:17:14.829735+08:00",
+	"Updated": "2021-02-23T10:23:51.234765+08:00",
 	"Record": {
 		"Easy": {
 			"Solved": 10,
 			"Total": 345
 		},
 		"Medium": {
-			"Solved": 15,
+			"Solved": 16,
 			"Total": 710
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 302
 		},
 		"Total": {
-			"Solved": 28,
+			"Solved": 29,
 			"Total": 1357
 		}
 	},
@@ -6207,7 +6207,7 @@
 			"TitleSlug": "find-largest-value-in-each-tree-row",
 			"PassRate": "62%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
