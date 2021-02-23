@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|13|18|3|34|
+|**Accepted**|14|18|3|35|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -78,7 +78,7 @@
 |[1696](https://leetcode.com/problems/jump-game-vi/)| * Jump Game VI|53%|Medium||
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)| * Maximum Erasure Value|49%|Medium||
 |[1694](https://leetcode.com/problems/reformat-phone-number/)| * Reformat Phone Number|66%|Easy||
-|[1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)| * Maximum Height by Stacking Cuboids |49%|Hard||
+|[1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)| * Maximum Height by Stacking Cuboids |50%|Hard||
 |[1690](https://leetcode.com/problems/stone-game-vii/)| * Stone Game VII|47%|Medium||
 |[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)| * Partitioning Into Minimum Number Of Deci-Binary Numbers|87%|Medium||
 |[1688](https://leetcode.com/problems/count-of-matches-in-tournament/)| * Count of Matches in Tournament|82%|Easy||
@@ -273,7 +273,7 @@
 |[1439](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)| * Find the Kth Smallest Sum of a Matrix With Sorted Rows|60%|Hard||
 |[1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| * Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|44%|Medium||
 |[1437](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)| * Check If All 1&#39;s Are at Least Length K Places Away|62%|Easy||
-|[1436](https://leetcode.com/problems/destination-city/)| * Destination City|76%|Easy||
+|[1436](https://leetcode.com/problems/destination-city/)| * Destination City|77%|Easy||
 |[1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)| * Number of Ways to Wear Different Hats to Each Other|39%|Hard||
 |[1433](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)| * Check If a String Can Break Another String|67%|Medium||
 |[1432](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)| * Max Difference You Can Get From Changing an Integer|42%|Medium||
@@ -453,7 +453,7 @@
 |[1191](https://leetcode.com/problems/k-concatenation-maximum-sum/)| * K-Concatenation Maximum Sum|25%|Medium||
 |[1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| * Reverse Substrings Between Each Pair of Parentheses|64%|Medium||
 |[1189](https://leetcode.com/problems/maximum-number-of-balloons/)| * Maximum Number of Balloons|61%|Easy||
-|[1187](https://leetcode.com/problems/make-array-strictly-increasing/)| * Make Array Strictly Increasing|41%|Hard||
+|[1187](https://leetcode.com/problems/make-array-strictly-increasing/)| * Make Array Strictly Increasing|42%|Hard||
 |[1186](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)| * Maximum Subarray Sum with One Deletion|38%|Medium||
 |[1185](https://leetcode.com/problems/day-of-the-week/)| * Day of the Week|61%|Easy||
 |[1184](https://leetcode.com/problems/distance-between-bus-stops/)| * Distance Between Bus Stops|54%|Easy||
@@ -671,7 +671,7 @@
 |[0897](https://leetcode.com/problems/increasing-order-search-tree/)| * Increasing Order Search Tree|74%|Easy||
 |[0896](https://leetcode.com/problems/monotonic-array/)| * Monotonic Array|57%|Easy||
 |[0895](https://leetcode.com/problems/maximum-frequency-stack/)| * Maximum Frequency Stack|62%|Hard||
-|[0894](https://leetcode.com/problems/all-possible-full-binary-trees/)| * All Possible Full Binary Trees|76%|Medium||
+|[0894](https://leetcode.com/problems/all-possible-full-binary-trees/)| * All Possible Full Binary Trees|77%|Medium||
 |[0893](https://leetcode.com/problems/groups-of-special-equivalent-strings/)| * Groups of Special-Equivalent Strings|68%|Easy||
 |[0892](https://leetcode.com/problems/surface-area-of-3d-shapes/)| * Surface Area of 3D Shapes|59%|Easy||
 |[0891](https://leetcode.com/problems/sum-of-subsequence-widths/)| * Sum of Subsequence Widths|33%|Hard||
@@ -686,7 +686,7 @@
 |[0882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)| * Reachable Nodes In Subdivided Graph|42%|Hard||
 |[0881](https://leetcode.com/problems/boats-to-save-people/)| * Boats to Save People|48%|Medium||
 |[0880](https://leetcode.com/problems/decoded-string-at-index/)| * Decoded String at Index|28%|Medium||
-|[0879](https://leetcode.com/problems/profitable-schemes/)| * Profitable Schemes|39%|Hard||
+|[0879](https://leetcode.com/problems/profitable-schemes/)| * Profitable Schemes|40%|Hard||
 |[0878](https://leetcode.com/problems/nth-magical-number/)| * Nth Magical Number|28%|Hard||
 |[0877](https://leetcode.com/problems/stone-game/)| * Stone Game|66%|Medium||
 |[0876](https://leetcode.com/problems/middle-of-the-linked-list/)| * Middle of the Linked List|69%|Easy||
@@ -1274,7 +1274,7 @@
 |[0104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Maximum Depth of Binary Tree](./Algorithms/0104.maximum-depth-of-binary-tree)|68%|Easy||
 |[0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| * Binary Tree Zigzag Level Order Traversal|50%|Medium||
 |[0102](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Binary Tree Level Order Traversal](./Algorithms/0102.binary-tree-level-order-traversal)|56%|Medium||
-|[0101](https://leetcode.com/problems/symmetric-tree/)| * Symmetric Tree|48%|Easy||
+|[0101](https://leetcode.com/problems/symmetric-tree/)|[Symmetric Tree](./Algorithms/0101.symmetric-tree)|48%|Easy||
 |[0100](https://leetcode.com/problems/same-tree/)|[Same Tree](./Algorithms/0100.same-tree)|54%|Easy||
 |[0099](https://leetcode.com/problems/recover-binary-search-tree/)| * Recover Binary Search Tree|42%|Hard||
 |[0098](https://leetcode.com/problems/validate-binary-search-tree/)|[Validate Binary Search Tree](./Algorithms/0098.validate-binary-search-tree)|28%|Medium||
