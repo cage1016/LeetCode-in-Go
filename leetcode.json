@@ -1,14 +1,14 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-23T09:29:03.249714+08:00",
+	"Updated": "2021-02-23T10:17:14.829735+08:00",
 	"Record": {
 		"Easy": {
-			"Solved": 9,
+			"Solved": 10,
 			"Total": 345
 		},
 		"Medium": {
-			"Solved": 13,
+			"Solved": 15,
 			"Total": 710
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 302
 		},
 		"Total": {
-			"Solved": 25,
+			"Solved": 28,
 			"Total": 1357
 		}
 	},
@@ -2415,7 +2415,7 @@
 			"TitleSlug": "binary-tree-right-side-view",
 			"PassRate": "56%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
@@ -5175,7 +5175,7 @@
 			"TitleSlug": "n-ary-tree-level-order-traversal",
 			"PassRate": "66%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
@@ -7671,7 +7671,7 @@
 			"TitleSlug": "average-of-levels-in-binary-tree",
 			"PassRate": "64%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
@@ -8149,7 +8149,7 @@
 			"ID": 677,
 			"Title": "Map Sum Pairs",
 			"TitleSlug": "map-sum-pairs",
-			"PassRate": "53%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -17257,7 +17257,7 @@
 			"ID": 1436,
 			"Title": "Destination City",
 			"TitleSlug": "destination-city",
-			"PassRate": "76%",
+			"PassRate": "77%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,

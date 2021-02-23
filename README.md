@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|10|14|3|27|
+|**Accepted**|10|15|3|28|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -1040,7 +1040,7 @@
 |[0433](https://leetcode.com/problems/minimum-genetic-mutation/)| * Minimum Genetic Mutation|43%|Medium||
 |[0432](https://leetcode.com/problems/all-oone-data-structure/)| * All O`one Data Structure|33%|Hard||
 |[0430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| * Flatten a Multilevel Doubly Linked List|56%|Medium||
-|[0429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| * N-ary Tree Level Order Traversal|66%|Medium||
+|[0429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[N-ary Tree Level Order Traversal](./Algorithms/0429.n-ary-tree-level-order-traversal)|66%|Medium||
 |[0427](https://leetcode.com/problems/construct-quad-tree/)| * Construct Quad Tree|62%|Medium||
 |[0424](https://leetcode.com/problems/longest-repeating-character-replacement/)| * Longest Repeating Character Replacement|48%|Medium||
 |[0423](https://leetcode.com/problems/reconstruct-original-digits-from-english/)| * Reconstruct Original Digits from English|47%|Medium||
