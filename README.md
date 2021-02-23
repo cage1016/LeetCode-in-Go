@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|10|18|3|31|
+|**Accepted**|11|18|3|32|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -77,7 +77,7 @@
 |[1697](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)| * Checking Existence of Edge Length Limited Paths|55%|Hard||
 |[1696](https://leetcode.com/problems/jump-game-vi/)| * Jump Game VI|53%|Medium||
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)| * Maximum Erasure Value|49%|Medium||
-|[1694](https://leetcode.com/problems/reformat-phone-number/)| * Reformat Phone Number|66%|Easy||
+|[1694](https://leetcode.com/problems/reformat-phone-number/)| * Reformat Phone Number|65%|Easy||
 |[1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)| * Maximum Height by Stacking Cuboids |50%|Hard||
 |[1690](https://leetcode.com/problems/stone-game-vii/)| * Stone Game VII|47%|Medium||
 |[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)| * Partitioning Into Minimum Number Of Deci-Binary Numbers|87%|Medium||
@@ -273,7 +273,7 @@
 |[1439](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)| * Find the Kth Smallest Sum of a Matrix With Sorted Rows|60%|Hard||
 |[1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| * Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|44%|Medium||
 |[1437](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)| * Check If All 1&#39;s Are at Least Length K Places Away|62%|Easy||
-|[1436](https://leetcode.com/problems/destination-city/)| * Destination City|77%|Easy||
+|[1436](https://leetcode.com/problems/destination-city/)| * Destination City|76%|Easy||
 |[1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)| * Number of Ways to Wear Different Hats to Each Other|39%|Hard||
 |[1433](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)| * Check If a String Can Break Another String|67%|Medium||
 |[1432](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)| * Max Difference You Can Get From Changing an Integer|42%|Medium||
@@ -669,7 +669,7 @@
 |[0899](https://leetcode.com/problems/orderly-queue/)| * Orderly Queue|53%|Hard||
 |[0898](https://leetcode.com/problems/bitwise-ors-of-subarrays/)| * Bitwise ORs of Subarrays|34%|Medium||
 |[0897](https://leetcode.com/problems/increasing-order-search-tree/)| * Increasing Order Search Tree|74%|Easy||
-|[0896](https://leetcode.com/problems/monotonic-array/)| * Monotonic Array|58%|Easy||
+|[0896](https://leetcode.com/problems/monotonic-array/)| * Monotonic Array|57%|Easy||
 |[0895](https://leetcode.com/problems/maximum-frequency-stack/)| * Maximum Frequency Stack|62%|Hard||
 |[0894](https://leetcode.com/problems/all-possible-full-binary-trees/)| * All Possible Full Binary Trees|77%|Medium||
 |[0893](https://leetcode.com/problems/groups-of-special-equivalent-strings/)| * Groups of Special-Equivalent Strings|68%|Easy||
@@ -960,7 +960,7 @@
 |[0528](https://leetcode.com/problems/random-pick-with-weight/)| * Random Pick with Weight|44%|Medium||
 |[0526](https://leetcode.com/problems/beautiful-arrangement/)| * Beautiful Arrangement|61%|Medium||
 |[0525](https://leetcode.com/problems/contiguous-array/)| * Contiguous Array|43%|Medium||
-|[0524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| * Longest Word in Dictionary through Deleting|49%|Medium||
+|[0524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)| * Longest Word in Dictionary through Deleting|50%|Medium||
 |[0523](https://leetcode.com/problems/continuous-subarray-sum/)| * Continuous Subarray Sum|24%|Medium||
 |[0522](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)| * Longest Uncommon Subsequence II|34%|Medium||
 |[0521](https://leetcode.com/problems/longest-uncommon-subsequence-i/)| * Longest Uncommon Subsequence I|58%|Easy||
@@ -1173,7 +1173,7 @@
 |[0229](https://leetcode.com/problems/majority-element-ii/)| * Majority Element II|38%|Medium||
 |[0228](https://leetcode.com/problems/summary-ranges/)| * Summary Ranges|42%|Easy||
 |[0227](https://leetcode.com/problems/basic-calculator-ii/)| * Basic Calculator II|38%|Medium||
-|[0226](https://leetcode.com/problems/invert-binary-tree/)| * Invert Binary Tree|66%|Easy||
+|[0226](https://leetcode.com/problems/invert-binary-tree/)|[Invert Binary Tree](./Algorithms/0226.invert-binary-tree)|66%|Easy||
 |[0225](https://leetcode.com/problems/implement-stack-using-queues/)| * Implement Stack using Queues|47%|Easy||
 |[0224](https://leetcode.com/problems/basic-calculator/)| * Basic Calculator|38%|Hard||
 |[0223](https://leetcode.com/problems/rectangle-area/)| * Rectangle Area|38%|Medium||

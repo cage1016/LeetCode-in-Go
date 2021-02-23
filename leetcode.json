@@ -1,10 +1,10 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-23T10:48:49.464323+08:00",
+	"Updated": "2021-02-23T13:29:55.063569+08:00",
 	"Record": {
 		"Easy": {
-			"Solved": 10,
+			"Solved": 11,
 			"Total": 345
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 302
 		},
 		"Total": {
-			"Solved": 31,
+			"Solved": 32,
 			"Total": 1357
 		}
 	},
@@ -2739,7 +2739,7 @@
 			"TitleSlug": "invert-binary-tree",
 			"PassRate": "66%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
@@ -6313,7 +6313,7 @@
 			"ID": 524,
 			"Title": "Longest Word in Dictionary through Deleting",
 			"TitleSlug": "longest-word-in-dictionary-through-deleting",
-			"PassRate": "49%",
+			"PassRate": "50%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -10777,7 +10777,7 @@
 			"ID": 896,
 			"Title": "Monotonic Array",
 			"TitleSlug": "monotonic-array",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -17257,7 +17257,7 @@
 			"ID": 1436,
 			"Title": "Destination City",
 			"TitleSlug": "destination-city",
-			"PassRate": "77%",
+			"PassRate": "76%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -20353,7 +20353,7 @@
 			"ID": 1694,
 			"Title": "Reformat Phone Number",
 			"TitleSlug": "reformat-phone-number",
-			"PassRate": "66%",
+			"PassRate": "65%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -20713,7 +20713,7 @@
 			"ID": 1724,
 			"Title": "Checking Existence of Edge Length Limited Paths II",
 			"TitleSlug": "checking-existence-of-edge-length-limited-paths-ii",
-			"PassRate": "58%",
+			"PassRate": "59%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -21097,7 +21097,7 @@
 			"ID": 1756,
 			"Title": "Design Most Recently Used Queue",
 			"TitleSlug": "design-most-recently-used-queue",
-			"PassRate": "75%",
+			"PassRate": "76%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
@@ -21169,7 +21169,7 @@
 			"ID": 1762,
 			"Title": "Buildings With an Ocean View",
 			"TitleSlug": "buildings-with-an-ocean-view",
-			"PassRate": "83%",
+			"PassRate": "82%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": true,
