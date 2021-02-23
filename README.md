@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|12|18|3|33|
+|**Accepted**|13|18|3|34|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -921,7 +921,7 @@
 |[0593](https://leetcode.com/problems/valid-square/)| * Valid Square|43%|Medium||
 |[0592](https://leetcode.com/problems/fraction-addition-and-subtraction/)| * Fraction Addition and Subtraction|50%|Medium||
 |[0591](https://leetcode.com/problems/tag-validator/)| * Tag Validator|34%|Hard||
-|[0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| * N-ary Tree Postorder Traversal|73%|Easy||
+|[0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[N-ary Tree Postorder Traversal](./Algorithms/0590.n-ary-tree-postorder-traversal)|73%|Easy||
 |[0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[N-ary Tree Preorder Traversal](./Algorithms/0589.n-ary-tree-preorder-traversal)|73%|Easy||
 |[0587](https://leetcode.com/problems/erect-the-fence/)| * Erect the Fence|36%|Hard||
 |[0583](https://leetcode.com/problems/delete-operation-for-two-strings/)| * Delete Operation for Two Strings|49%|Medium||
