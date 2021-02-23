@@ -1,10 +1,10 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-23T13:29:55.063569+08:00",
+	"Updated": "2021-02-23T14:32:12.909088+08:00",
 	"Record": {
 		"Easy": {
-			"Solved": 11,
+			"Solved": 12,
 			"Total": 345
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 302
 		},
 		"Total": {
-			"Solved": 32,
+			"Solved": 33,
 			"Total": 1357
 		}
 	},
@@ -7095,7 +7095,7 @@
 			"TitleSlug": "n-ary-tree-preorder-traversal",
 			"PassRate": "73%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
@@ -10753,7 +10753,7 @@
 			"ID": 894,
 			"Title": "All Possible Full Binary Trees",
 			"TitleSlug": "all-possible-full-binary-trees",
-			"PassRate": "77%",
+			"PassRate": "76%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -20317,7 +20317,7 @@
 			"ID": 1691,
 			"Title": "Maximum Height by Stacking Cuboids ",
 			"TitleSlug": "maximum-height-by-stacking-cuboids",
-			"PassRate": "50%",
+			"PassRate": "49%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -20353,7 +20353,7 @@
 			"ID": 1694,
 			"Title": "Reformat Phone Number",
 			"TitleSlug": "reformat-phone-number",
-			"PassRate": "65%",
+			"PassRate": "66%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
