@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|9|13|3|25|
+|**Accepted**|9|14|3|26|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -1200,7 +1200,7 @@
 |[0202](https://leetcode.com/problems/happy-number/)| * Happy Number|51%|Easy||
 |[0201](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| * Bitwise AND of Numbers Range|39%|Medium||
 |[0200](https://leetcode.com/problems/number-of-islands/)| * Number of Islands|49%|Medium||
-|[0199](https://leetcode.com/problems/binary-tree-right-side-view/)| * Binary Tree Right Side View|56%|Medium||
+|[0199](https://leetcode.com/problems/binary-tree-right-side-view/)|[Binary Tree Right Side View](./Algorithms/0199.binary-tree-right-side-view)|56%|Medium||
 |[0198](https://leetcode.com/problems/house-robber/)| * House Robber|42%|Medium||
 |[0191](https://leetcode.com/problems/number-of-1-bits/)| * Number of 1 Bits|53%|Easy||
 |[0190](https://leetcode.com/problems/reverse-bits/)| * Reverse Bits|42%|Easy||
