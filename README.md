@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|9|14|3|26|
+|**Accepted**|10|14|3|27|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -273,7 +273,7 @@
 |[1439](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)| * Find the Kth Smallest Sum of a Matrix With Sorted Rows|60%|Hard||
 |[1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| * Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|44%|Medium||
 |[1437](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)| * Check If All 1&#39;s Are at Least Length K Places Away|62%|Easy||
-|[1436](https://leetcode.com/problems/destination-city/)| * Destination City|76%|Easy||
+|[1436](https://leetcode.com/problems/destination-city/)| * Destination City|77%|Easy||
 |[1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)| * Number of Ways to Wear Different Hats to Each Other|39%|Hard||
 |[1433](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)| * Check If a String Can Break Another String|67%|Medium||
 |[1432](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)| * Max Difference You Can Get From Changing an Integer|42%|Medium||
@@ -866,7 +866,7 @@
 |[0680](https://leetcode.com/problems/valid-palindrome-ii/)| * Valid Palindrome II|37%|Easy||
 |[0679](https://leetcode.com/problems/24-game/)| * 24 Game|47%|Hard||
 |[0678](https://leetcode.com/problems/valid-parenthesis-string/)| * Valid Parenthesis String|31%|Medium||
-|[0677](https://leetcode.com/problems/map-sum-pairs/)| * Map Sum Pairs|53%|Medium||
+|[0677](https://leetcode.com/problems/map-sum-pairs/)| * Map Sum Pairs|54%|Medium||
 |[0676](https://leetcode.com/problems/implement-magic-dictionary/)| * Implement Magic Dictionary|55%|Medium||
 |[0675](https://leetcode.com/problems/cut-off-trees-for-golf-event/)| * Cut Off Trees for Golf Event|35%|Hard||
 |[0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)| * Longest Continuous Increasing Subsequence|46%|Easy||
@@ -899,7 +899,7 @@
 |[0640](https://leetcode.com/problems/solve-the-equation/)| * Solve the Equation|42%|Medium||
 |[0639](https://leetcode.com/problems/decode-ways-ii/)| * Decode Ways II|27%|Hard||
 |[0638](https://leetcode.com/problems/shopping-offers/)| * Shopping Offers|52%|Medium||
-|[0637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)| * Average of Levels in Binary Tree|64%|Easy||
+|[0637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[Average of Levels in Binary Tree](./Algorithms/0637.average-of-levels-in-binary-tree)|64%|Easy||
 |[0636](https://leetcode.com/problems/exclusive-time-of-functions/)| * Exclusive Time of Functions|54%|Medium||
 |[0633](https://leetcode.com/problems/sum-of-square-numbers/)| * Sum of Square Numbers|32%|Medium||
 |[0632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)| * Smallest Range Covering Elements from K Lists|54%|Hard||
