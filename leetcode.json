@@ -1,14 +1,14 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-23T10:23:51.234765+08:00",
+	"Updated": "2021-02-23T10:42:43.543724+08:00",
 	"Record": {
 		"Easy": {
 			"Solved": 10,
 			"Total": 345
 		},
 		"Medium": {
-			"Solved": 16,
+			"Solved": 17,
 			"Total": 710
 		},
 		"Hard": {
@@ -16,7 +16,7 @@
 			"Total": 302
 		},
 		"Total": {
-			"Solved": 29,
+			"Solved": 30,
 			"Total": 1357
 		}
 	},
@@ -1419,7 +1419,7 @@
 			"TitleSlug": "populating-next-right-pointers-in-each-node",
 			"PassRate": "49%",
 			"Difficulty": "Medium",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,

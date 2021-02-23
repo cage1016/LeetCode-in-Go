@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|10|16|3|29|
+|**Accepted**|10|17|3|30|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -1259,7 +1259,7 @@
 |[0119](https://leetcode.com/problems/pascals-triangle-ii/)| * Pascal&#39;s Triangle II|52%|Easy||
 |[0118](https://leetcode.com/problems/pascals-triangle/)| * Pascal&#39;s Triangle|54%|Easy||
 |[0117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| * Populating Next Right Pointers in Each Node II|42%|Medium||
-|[0116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| * Populating Next Right Pointers in Each Node|49%|Medium||
+|[0116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Populating Next Right Pointers in Each Node](./Algorithms/0116.populating-next-right-pointers-in-each-node)|49%|Medium||
 |[0115](https://leetcode.com/problems/distinct-subsequences/)| * Distinct Subsequences|39%|Hard||
 |[0114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| * Flatten Binary Tree to Linked List|51%|Medium||
 |[0113](https://leetcode.com/problems/path-sum-ii/)|[Path Sum II](./Algorithms/0113.path-sum-ii)|49%|Medium||
