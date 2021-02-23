@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|14|18|3|35|
+|**Accepted**|15|18|3|36|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -936,7 +936,7 @@
 |[0563](https://leetcode.com/problems/binary-tree-tilt/)| * Binary Tree Tilt|52%|Easy||
 |[0561](https://leetcode.com/problems/array-partition-i/)| * Array Partition I|73%|Easy||
 |[0560](https://leetcode.com/problems/subarray-sum-equals-k/)| * Subarray Sum Equals K|43%|Medium||
-|[0559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| * Maximum Depth of N-ary Tree|69%|Easy||
+|[0559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[Maximum Depth of N-ary Tree](./Algorithms/0559.maximum-depth-of-n-ary-tree)|69%|Easy||
 |[0558](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)| * Logical OR of Two Binary Grids Represented as Quad-Trees|45%|Medium||
 |[0557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| * Reverse Words in a String III|71%|Easy||
 |[0556](https://leetcode.com/problems/next-greater-element-iii/)| * Next Greater Element III|33%|Medium||

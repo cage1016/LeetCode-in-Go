@@ -1,10 +1,10 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-23T22:53:48.280855+08:00",
+	"Updated": "2021-02-23T23:13:03.780419+08:00",
 	"Record": {
 		"Easy": {
-			"Solved": 14,
+			"Solved": 15,
 			"Total": 345
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 302
 		},
 		"Total": {
-			"Solved": 35,
+			"Solved": 36,
 			"Total": 1357
 		}
 	},
@@ -6735,7 +6735,7 @@
 			"TitleSlug": "maximum-depth-of-n-ary-tree",
 			"PassRate": "69%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
