@@ -24,35 +24,68 @@ type TreeNode = kit.TreeNode
  * }
  */
 func maxDepth(root *TreeNode) int {
-	// // recursive
+	// method #1: recursive
 	// if root == nil {
 	// 	return 0
 	// }
 
 	// return 1 + Max(maxDepth(root.Left), maxDepth(root.Right))
 
-	// iteration, 層序遍歷
-	if root == nil {
-		return 0
-	}
+	// // method #2: iteration, 層序遍歷
+	// if root == nil {
+	// 	return 0
+	// }
+
+	// res := 0
+	// queue := []*TreeNode{root}
+	// var first *TreeNode
+	// for len(queue) > 0 {
+	// 	size := len(queue)
+	// 	for i := 0; i < size; i++ {
+	// 		first, queue = queue[0], queue[1:]
+	// 		if first.Left != nil {
+	// 			queue = append(queue, first.Left)
+	// 		}
+	// 		if first.Right != nil {
+	// 			queue = append(queue, first.Right)
+	// 		}
+	// 	}
+	// 	res += 1
+	// }
+	// return res
+
+	// method #3
 
 	res := 0
-	queue := []*TreeNode{root}
-	var first *TreeNode
-	for len(queue) > 0 {
-		size := len(queue)
-		for i := 0; i < size; i++ {
-			first, queue = queue[0], queue[1:]
-			if first.Left != nil {
-				queue = append(queue, first.Left)
-			}
-			if first.Right != nil {
-				queue = append(queue, first.Right)
-			}
-		}
-		res += 1
+	if root == nil {
+		return res
 	}
+	depth := 1
+	GetDepth(root, depth, &res)
 	return res
+}
+
+func GetDepth(root *TreeNode, depth int, res *int) {
+	if depth > *res {
+		*res = depth
+	}
+
+	if root.Left == nil && root.Right == nil {
+		return
+	}
+
+	if root.Left != nil {
+		depth++
+		GetDepth(root.Left, depth, res)
+		depth--
+	}
+
+	if root.Right != nil {
+		depth++
+		GetDepth(root.Right, depth, res)
+		depth++
+	}
+	return
 }
 
 func Max(a, b int) int {

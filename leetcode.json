@@ -1,7 +1,7 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-25T06:39:52.739502+08:00",
+	"Updated": "2021-02-25T07:11:38.982826+08:00",
 	"Record": {
 		"Easy": {
 			"Solved": 15,
@@ -13117,7 +13117,7 @@
 			"ID": 1091,
 			"Title": "Shortest Path in Binary Matrix",
 			"TitleSlug": "shortest-path-in-binary-matrix",
-			"PassRate": "39%",
+			"PassRate": "40%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,

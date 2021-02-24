@@ -44,8 +44,19 @@ A binary tree&#39;s **maximum depth** is the number of nodes along the longest p
 
 ##  解题思路
 
-- recursive: 基本上就是計算左右子樹 count, 再取 Max
-- iteration: 層序遍歷，每一個 level 加1即可
+1. recursive
+   基本上就是計算左右子樹 count, 再取 Max
+
+2. iteration
+   層序遍歷，每一個 level 加1即可
+
+3. 計算深
+   > ⼆叉樹節點的深度：指從根節點到該節點的最⻓簡單路徑邊的條數。
+   > ⼆叉樹節點的⾼度：指從該節點到葉⼦節點的最⻓簡單路徑邊的條數。
+
+   ![](1.png)
+
+   在 recursive func 中代入 depth, res, 每往下走+1，往回走-1，當前 depth > res，更新 res
 
 ##  可能的變化
 
