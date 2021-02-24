@@ -18,11 +18,11 @@
 
 |题号|题目|通过率|难度|收藏|
 |:-:|:-|:-: | :-: | :-: |
-|[1771](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)| * Maximize Palindrome Length From Subsequences|31%|Hard||
+|[1771](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)| * Maximize Palindrome Length From Subsequences|32%|Hard||
 |[1770](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| * Maximum Score from Performing Multiplication Operations|26%|Medium||
 |[1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| * Minimum Number of Operations to Move All Balls to Each Box|90%|Medium||
 |[1768](https://leetcode.com/problems/merge-strings-alternately/)| * Merge Strings Alternately|82%|Easy||
-|[1766](https://leetcode.com/problems/tree-of-coprimes/)| * Tree of Coprimes|33%|Hard||
+|[1766](https://leetcode.com/problems/tree-of-coprimes/)| * Tree of Coprimes|34%|Hard||
 |[1765](https://leetcode.com/problems/map-of-highest-peak/)| * Map of Highest Peak|52%|Medium||
 |[1764](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)| * Form Array by Concatenating Subarrays of Another Array|56%|Medium||
 |[1763](https://leetcode.com/problems/longest-nice-substring/)| * Longest Nice Substring|61%|Easy||
@@ -77,7 +77,7 @@
 |[1697](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)| * Checking Existence of Edge Length Limited Paths|55%|Hard||
 |[1696](https://leetcode.com/problems/jump-game-vi/)| * Jump Game VI|53%|Medium||
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)| * Maximum Erasure Value|49%|Medium||
-|[1694](https://leetcode.com/problems/reformat-phone-number/)| * Reformat Phone Number|66%|Easy||
+|[1694](https://leetcode.com/problems/reformat-phone-number/)| * Reformat Phone Number|65%|Easy||
 |[1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)| * Maximum Height by Stacking Cuboids |50%|Hard||
 |[1690](https://leetcode.com/problems/stone-game-vii/)| * Stone Game VII|47%|Medium||
 |[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)| * Partitioning Into Minimum Number Of Deci-Binary Numbers|87%|Medium||
@@ -444,7 +444,7 @@
 |[1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)| * Remove All Adjacent Duplicates in String II|57%|Medium||
 |[1208](https://leetcode.com/problems/get-equal-substrings-within-budget/)| * Get Equal Substrings Within Budget|43%|Medium||
 |[1207](https://leetcode.com/problems/unique-number-of-occurrences/)|[Unique Number of Occurrences](./Algorithms/1207.unique-number-of-occurrences)|71%|Easy||
-|[1206](https://leetcode.com/problems/design-skiplist/)| * Design Skiplist|59%|Hard||
+|[1206](https://leetcode.com/problems/design-skiplist/)| * Design Skiplist|58%|Hard||
 |[1203](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)| * Sort Items by Groups Respecting Dependencies|48%|Hard||
 |[1202](https://leetcode.com/problems/smallest-string-with-swaps/)| * Smallest String With Swaps|48%|Medium||
 |[1201](https://leetcode.com/problems/ugly-number-iii/)| * Ugly Number III|26%|Medium||
@@ -479,7 +479,7 @@
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| * Longest Common Subsequence|58%|Medium||
 |[1140](https://leetcode.com/problems/stone-game-ii/)| * Stone Game II|64%|Medium||
 |[1139](https://leetcode.com/problems/largest-1-bordered-square/)| * Largest 1-Bordered Square|48%|Medium||
-|[1138](https://leetcode.com/problems/alphabet-board-path/)| * Alphabet Board Path|50%|Medium||
+|[1138](https://leetcode.com/problems/alphabet-board-path/)| * Alphabet Board Path|51%|Medium||
 |[1137](https://leetcode.com/problems/n-th-tribonacci-number/)| * N-th Tribonacci Number|55%|Easy||
 |[1131](https://leetcode.com/problems/maximum-of-absolute-value-expression/)| * Maximum of Absolute Value Expression|51%|Medium||
 |[1130](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)| * Minimum Cost Tree From Leaf Values|67%|Medium||
@@ -660,7 +660,7 @@
 |[0908](https://leetcode.com/problems/smallest-range-i/)| * Smallest Range I|66%|Easy||
 |[0907](https://leetcode.com/problems/sum-of-subarray-minimums/)| * Sum of Subarray Minimums|33%|Medium||
 |[0906](https://leetcode.com/problems/super-palindromes/)| * Super Palindromes|32%|Hard||
-|[0905](https://leetcode.com/problems/sort-array-by-parity/)| * Sort Array By Parity|75%|Easy||
+|[0905](https://leetcode.com/problems/sort-array-by-parity/)| * Sort Array By Parity|74%|Easy||
 |[0904](https://leetcode.com/problems/fruit-into-baskets/)| * Fruit Into Baskets|42%|Medium||
 |[0903](https://leetcode.com/problems/valid-permutations-for-di-sequence/)| * Valid Permutations for DI Sequence|54%|Hard||
 |[0902](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)| * Numbers At Most N Given Digit Set|36%|Hard||
@@ -782,7 +782,7 @@
 |[0785](https://leetcode.com/problems/is-graph-bipartite/)| * Is Graph Bipartite?|48%|Medium||
 |[0784](https://leetcode.com/problems/letter-case-permutation/)| * Letter Case Permutation|68%|Medium||
 |[0783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)| * Minimum Distance Between BST Nodes|53%|Easy||
-|[0782](https://leetcode.com/problems/transform-to-chessboard/)| * Transform to Chessboard|47%|Hard||
+|[0782](https://leetcode.com/problems/transform-to-chessboard/)| * Transform to Chessboard|46%|Hard||
 |[0781](https://leetcode.com/problems/rabbits-in-forest/)| * Rabbits in Forest|55%|Medium||
 |[0780](https://leetcode.com/problems/reaching-points/)| * Reaching Points|30%|Hard||
 |[0779](https://leetcode.com/problems/k-th-symbol-in-grammar/)| * K-th Symbol in Grammar|38%|Medium||
@@ -866,7 +866,7 @@
 |[0680](https://leetcode.com/problems/valid-palindrome-ii/)| * Valid Palindrome II|37%|Easy||
 |[0679](https://leetcode.com/problems/24-game/)| * 24 Game|47%|Hard||
 |[0678](https://leetcode.com/problems/valid-parenthesis-string/)| * Valid Parenthesis String|31%|Medium||
-|[0677](https://leetcode.com/problems/map-sum-pairs/)| * Map Sum Pairs|54%|Medium||
+|[0677](https://leetcode.com/problems/map-sum-pairs/)| * Map Sum Pairs|53%|Medium||
 |[0676](https://leetcode.com/problems/implement-magic-dictionary/)| * Implement Magic Dictionary|55%|Medium||
 |[0675](https://leetcode.com/problems/cut-off-trees-for-golf-event/)| * Cut Off Trees for Golf Event|35%|Hard||
 |[0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)| * Longest Continuous Increasing Subsequence|46%|Easy||
@@ -894,7 +894,7 @@
 |[0647](https://leetcode.com/problems/palindromic-substrings/)| * Palindromic Substrings|61%|Medium||
 |[0646](https://leetcode.com/problems/maximum-length-of-pair-chain/)| * Maximum Length of Pair Chain|52%|Medium||
 |[0645](https://leetcode.com/problems/set-mismatch/)| * Set Mismatch|42%|Easy||
-|[0643](https://leetcode.com/problems/maximum-average-subarray-i/)| * Maximum Average Subarray I|41%|Easy||
+|[0643](https://leetcode.com/problems/maximum-average-subarray-i/)| * Maximum Average Subarray I|42%|Easy||
 |[0641](https://leetcode.com/problems/design-circular-deque/)| * Design Circular Deque|55%|Medium||
 |[0640](https://leetcode.com/problems/solve-the-equation/)| * Solve the Equation|42%|Medium||
 |[0639](https://leetcode.com/problems/decode-ways-ii/)| * Decode Ways II|27%|Hard||
