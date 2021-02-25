@@ -686,7 +686,7 @@
 |[0882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)| * Reachable Nodes In Subdivided Graph|42%|Hard||
 |[0881](https://leetcode.com/problems/boats-to-save-people/)| * Boats to Save People|48%|Medium||
 |[0880](https://leetcode.com/problems/decoded-string-at-index/)| * Decoded String at Index|28%|Medium||
-|[0879](https://leetcode.com/problems/profitable-schemes/)| * Profitable Schemes|40%|Hard||
+|[0879](https://leetcode.com/problems/profitable-schemes/)| * Profitable Schemes|39%|Hard||
 |[0878](https://leetcode.com/problems/nth-magical-number/)| * Nth Magical Number|28%|Hard||
 |[0877](https://leetcode.com/problems/stone-game/)| * Stone Game|66%|Medium||
 |[0876](https://leetcode.com/problems/middle-of-the-linked-list/)| * Middle of the Linked List|69%|Easy||
@@ -925,7 +925,7 @@
 |[0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[N-ary Tree Preorder Traversal](./Algorithms/0589.n-ary-tree-preorder-traversal)|73%|Easy||
 |[0587](https://leetcode.com/problems/erect-the-fence/)| * Erect the Fence|36%|Hard||
 |[0583](https://leetcode.com/problems/delete-operation-for-two-strings/)| * Delete Operation for Two Strings|49%|Medium||
-|[0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| * Shortest Unsorted Continuous Subarray|31%|Medium||
+|[0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| * Shortest Unsorted Continuous Subarray|32%|Medium||
 |[0576](https://leetcode.com/problems/out-of-boundary-paths/)| * Out of Boundary Paths|35%|Medium||
 |[0575](https://leetcode.com/problems/distribute-candies/)| * Distribute Candies|62%|Easy||
 |[0572](https://leetcode.com/problems/subtree-of-another-tree/)| * Subtree of Another Tree|44%|Easy||
@@ -1244,7 +1244,7 @@
 |[0134](https://leetcode.com/problems/gas-station/)| * Gas Station|41%|Medium||
 |[0133](https://leetcode.com/problems/clone-graph/)| * Clone Graph|39%|Medium||
 |[0132](https://leetcode.com/problems/palindrome-partitioning-ii/)| * Palindrome Partitioning II|31%|Hard||
-|[0131](https://leetcode.com/problems/palindrome-partitioning/)| * Palindrome Partitioning|51%|Medium||
+|[0131](https://leetcode.com/problems/palindrome-partitioning/)| * Palindrome Partitioning|52%|Medium||
 |[0130](https://leetcode.com/problems/surrounded-regions/)| * Surrounded Regions|29%|Medium||
 |[0129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Sum Root to Leaf Numbers](./Algorithms/0129.sum-root-to-leaf-numbers)|50%|Medium||
 |[0128](https://leetcode.com/problems/longest-consecutive-sequence/)| * Longest Consecutive Sequence|46%|Hard||
@@ -1321,7 +1321,7 @@
 |[0057](https://leetcode.com/problems/insert-interval/)| * Insert Interval|35%|Medium||
 |[0056](https://leetcode.com/problems/merge-intervals/)| * Merge Intervals|41%|Medium||
 |[0055](https://leetcode.com/problems/jump-game/)| * Jump Game|35%|Medium||
-|[0054](https://leetcode.com/problems/spiral-matrix/)| * Spiral Matrix|35%|Medium||
+|[0054](https://leetcode.com/problems/spiral-matrix/)| * Spiral Matrix|36%|Medium||
 |[0053](https://leetcode.com/problems/maximum-subarray/)| * Maximum Subarray|47%|Easy||
 |[0052](https://leetcode.com/problems/n-queens-ii/)| * N-Queens II|60%|Hard||
 |[0051](https://leetcode.com/problems/n-queens/)| * N-Queens|49%|Hard||
