@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|16|18|3|37|
+|**Accepted**|17|18|3|38|
 |**Total**|345|710|302|1357|
 
 ## 题解
@@ -502,7 +502,7 @@
 |[1094](https://leetcode.com/problems/car-pooling/)| * Car Pooling|59%|Medium||
 |[1093](https://leetcode.com/problems/statistics-from-a-large-sample/)| * Statistics from a Large Sample|49%|Medium||
 |[1092](https://leetcode.com/problems/shortest-common-supersequence/)| * Shortest Common Supersequence |52%|Hard||
-|[1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)| * Shortest Path in Binary Matrix|39%|Medium||
+|[1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/)| * Shortest Path in Binary Matrix|40%|Medium||
 |[1090](https://leetcode.com/problems/largest-values-from-labels/)| * Largest Values From Labels|60%|Medium||
 |[1089](https://leetcode.com/problems/duplicate-zeros/)| * Duplicate Zeros|51%|Easy||
 |[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)| * Smallest Subsequence of Distinct Characters|53%|Medium||
@@ -1058,7 +1058,7 @@
 |[0407](https://leetcode.com/problems/trapping-rain-water-ii/)| * Trapping Rain Water II|44%|Hard||
 |[0406](https://leetcode.com/problems/queue-reconstruction-by-height/)| * Queue Reconstruction by Height|68%|Medium||
 |[0405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)| * Convert a Number to Hexadecimal|44%|Easy||
-|[0404](https://leetcode.com/problems/sum-of-left-leaves/)| * Sum of Left Leaves|52%|Easy||
+|[0404](https://leetcode.com/problems/sum-of-left-leaves/)|[Sum of Left Leaves](./Algorithms/0404.sum-of-left-leaves)|52%|Easy||
 |[0403](https://leetcode.com/problems/frog-jump/)| * Frog Jump|41%|Hard||
 |[0402](https://leetcode.com/problems/remove-k-digits/)| * Remove K Digits|28%|Medium||
 |[0401](https://leetcode.com/problems/binary-watch/)| * Binary Watch|48%|Easy||

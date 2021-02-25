@@ -1,10 +1,10 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-25T22:52:06.415368+08:00",
+	"Updated": "2021-02-25T23:30:10.85882+08:00",
 	"Record": {
 		"Easy": {
-			"Solved": 16,
+			"Solved": 17,
 			"Total": 345
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 302
 		},
 		"Total": {
-			"Solved": 37,
+			"Solved": 38,
 			"Total": 1357
 		}
 	},
@@ -4875,7 +4875,7 @@
 			"TitleSlug": "sum-of-left-leaves",
 			"PassRate": "52%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
@@ -13117,7 +13117,7 @@
 			"ID": 1091,
 			"Title": "Shortest Path in Binary Matrix",
 			"TitleSlug": "shortest-path-in-binary-matrix",
-			"PassRate": "39%",
+			"PassRate": "40%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
