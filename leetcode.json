@@ -1,7 +1,7 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-02-26T22:49:56.653722+08:00",
+	"Updated": "2021-02-27T01:29:07.278776+08:00",
 	"Record": {
 		"Easy": {
 			"Solved": 17,
@@ -17785,7 +17785,7 @@
 			"ID": 1480,
 			"Title": "Running Sum of 1d Array",
 			"TitleSlug": "running-sum-of-1d-array",
-			"PassRate": "89%",
+			"PassRate": "88%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
