@@ -1,7 +1,7 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-03-02T22:21:20.53898+08:00",
+	"Updated": "2021-03-03T00:17:59.783234+08:00",
 	"Record": {
 		"Easy": {
 			"Solved": 19,
@@ -10777,7 +10777,7 @@
 			"ID": 896,
 			"Title": "Monotonic Array",
 			"TitleSlug": "monotonic-array",
-			"PassRate": "58%",
+			"PassRate": "57%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18013,7 +18013,7 @@
 			"ID": 1499,
 			"Title": "Max Value of Equation",
 			"TitleSlug": "max-value-of-equation",
-			"PassRate": "45%",
+			"PassRate": "44%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -18493,7 +18493,7 @@
 			"ID": 1539,
 			"Title": "Kth Missing Positive Number",
 			"TitleSlug": "kth-missing-positive-number",
-			"PassRate": "55%",
+			"PassRate": "54%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
