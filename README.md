@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|18|20|3|41|
+|**Accepted**|19|20|3|42|
 |**Total**|346|712|303|1361|
 
 ## 题解
@@ -850,7 +850,7 @@
 |[0704](https://leetcode.com/problems/binary-search/)| * Binary Search|54%|Easy||
 |[0703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| * Kth Largest Element in a Stream|50%|Easy||
 |[0701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| * Insert into a Binary Search Tree|75%|Medium||
-|[0700](https://leetcode.com/problems/search-in-a-binary-search-tree/)| * Search in a Binary Search Tree|73%|Easy||
+|[0700](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Search in a Binary Search Tree](./Algorithms/0700.search-in-a-binary-search-tree)|73%|Easy||
 |[0699](https://leetcode.com/problems/falling-squares/)| * Falling Squares|42%|Hard||
 |[0698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| * Partition to K Equal Sum Subsets|45%|Medium||
 |[0697](https://leetcode.com/problems/degree-of-an-array/)| * Degree of an Array|54%|Easy||

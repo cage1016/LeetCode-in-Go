@@ -1,10 +1,10 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-03-02T21:55:00.111951+08:00",
+	"Updated": "2021-03-02T22:21:20.53898+08:00",
 	"Record": {
 		"Easy": {
-			"Solved": 18,
+			"Solved": 19,
 			"Total": 346
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 303
 		},
 		"Total": {
-			"Solved": 41,
+			"Solved": 42,
 			"Total": 1361
 		}
 	},
@@ -8427,7 +8427,7 @@
 			"TitleSlug": "search-in-a-binary-search-tree",
 			"PassRate": "73%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
