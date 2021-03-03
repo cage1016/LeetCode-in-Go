@@ -11,7 +11,7 @@
 
 |     |Easy|Medium|Hard|Total|
 |:---:|:---:|:---:|:---:|:---:|
-|**Accepted**|19|20|3|42|
+|**Accepted**|20|20|3|43|
 |**Total**|346|712|303|1361|
 
 ## 题解
@@ -21,7 +21,7 @@
 |[1776](https://leetcode.com/problems/car-fleet-ii/)| * Car Fleet II|40%|Hard||
 |[1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/)| * Equal Sum Arrays With Minimum Number of Operations|49%|Medium||
 |[1774](https://leetcode.com/problems/closest-dessert-cost/)| * Closest Dessert Cost|50%|Medium||
-|[1773](https://leetcode.com/problems/count-items-matching-a-rule/)| * Count Items Matching a Rule|88%|Easy||
+|[1773](https://leetcode.com/problems/count-items-matching-a-rule/)| * Count Items Matching a Rule|87%|Easy||
 |[1771](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)| * Maximize Palindrome Length From Subsequences|33%|Hard||
 |[1770](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| * Maximum Score from Performing Multiplication Operations|28%|Medium||
 |[1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| * Minimum Number of Operations to Move All Balls to Each Box|88%|Medium||
@@ -52,7 +52,7 @@
 |[1736](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)| * Latest Time by Replacing Hidden Digits|41%|Easy||
 |[1735](https://leetcode.com/problems/count-ways-to-make-array-with-product/)| * Count Ways to Make Array With Product|48%|Hard||
 |[1734](https://leetcode.com/problems/decode-xored-permutation/)| * Decode XORed Permutation|52%|Medium||
-|[1733](https://leetcode.com/problems/minimum-number-of-people-to-teach/)| * Minimum Number of People to Teach|36%|Medium||
+|[1733](https://leetcode.com/problems/minimum-number-of-people-to-teach/)| * Minimum Number of People to Teach|37%|Medium||
 |[1732](https://leetcode.com/problems/find-the-highest-altitude/)| * Find the Highest Altitude|80%|Easy||
 |[1728](https://leetcode.com/problems/cat-and-mouse-ii/)| * Cat and Mouse II|41%|Hard||
 |[1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)| * Largest Submatrix With Rearrangements|58%|Medium||
@@ -463,7 +463,7 @@
 |[1184](https://leetcode.com/problems/distance-between-bus-stops/)| * Distance Between Bus Stops|54%|Easy||
 |[1178](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)| * Number of Valid Words for Each Puzzle|39%|Hard||
 |[1177](https://leetcode.com/problems/can-make-palindrome-from-substring/)| * Can Make Palindrome from Substring|36%|Medium||
-|[1175](https://leetcode.com/problems/prime-arrangements/)| * Prime Arrangements|51%|Easy||
+|[1175](https://leetcode.com/problems/prime-arrangements/)| * Prime Arrangements|52%|Easy||
 |[1172](https://leetcode.com/problems/dinner-plate-stacks/)| * Dinner Plate Stacks|37%|Hard||
 |[1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)| * Remove Zero Sum Consecutive Nodes from Linked List|41%|Medium||
 |[1170](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)| * Compare Strings by Frequency of the Smallest Character|59%|Medium||
@@ -518,7 +518,7 @@
 |[1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)| * Flip Columns For Maximum Number of Equal Rows|61%|Medium||
 |[1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/)| * Greatest Common Divisor of Strings|51%|Easy||
 |[1054](https://leetcode.com/problems/distant-barcodes/)| * Distant Barcodes|44%|Medium||
-|[1053](https://leetcode.com/problems/previous-permutation-with-one-swap/)| * Previous Permutation With One Swap|51%|Medium||
+|[1053](https://leetcode.com/problems/previous-permutation-with-one-swap/)| * Previous Permutation With One Swap|50%|Medium||
 |[1052](https://leetcode.com/problems/grumpy-bookstore-owner/)| * Grumpy Bookstore Owner|55%|Medium||
 |[1051](https://leetcode.com/problems/height-checker/)| * Height Checker|72%|Easy||
 |[1049](https://leetcode.com/problems/last-stone-weight-ii/)| * Last Stone Weight II|45%|Medium||
@@ -528,7 +528,7 @@
 |[1044](https://leetcode.com/problems/longest-duplicate-substring/)| * Longest Duplicate Substring|31%|Hard||
 |[1043](https://leetcode.com/problems/partition-array-for-maximum-sum/)| * Partition Array for Maximum Sum|67%|Medium||
 |[1042](https://leetcode.com/problems/flower-planting-with-no-adjacent/)| * Flower Planting With No Adjacent|48%|Medium||
-|[1041](https://leetcode.com/problems/robot-bounded-in-circle/)| * Robot Bounded In Circle|55%|Medium||
+|[1041](https://leetcode.com/problems/robot-bounded-in-circle/)| * Robot Bounded In Circle|54%|Medium||
 |[1040](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)| * Moving Stones Until Consecutive II|54%|Medium||
 |[1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)| * Minimum Score Triangulation of Polygon|50%|Medium||
 |[1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)| * Binary Search Tree to Greater Sum Tree|82%|Medium||
@@ -545,11 +545,11 @@
 |[1027](https://leetcode.com/problems/longest-arithmetic-subsequence/)| * Longest Arithmetic Subsequence|49%|Medium||
 |[1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)| * Maximum Difference Between Node and Ancestor|69%|Medium||
 |[1025](https://leetcode.com/problems/divisor-game/)| * Divisor Game|66%|Easy||
-|[1024](https://leetcode.com/problems/video-stitching/)| * Video Stitching|49%|Medium||
+|[1024](https://leetcode.com/problems/video-stitching/)| * Video Stitching|48%|Medium||
 |[1023](https://leetcode.com/problems/camelcase-matching/)| * Camelcase Matching|57%|Medium||
 |[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| * Sum of Root To Leaf Binary Numbers|71%|Easy||
 |[1021](https://leetcode.com/problems/remove-outermost-parentheses/)| * Remove Outermost Parentheses|79%|Easy||
-|[1020](https://leetcode.com/problems/number-of-enclaves/)| * Number of Enclaves|58%|Medium||
+|[1020](https://leetcode.com/problems/number-of-enclaves/)| * Number of Enclaves|59%|Medium||
 |[1019](https://leetcode.com/problems/next-greater-node-in-linked-list/)| * Next Greater Node In Linked List|58%|Medium||
 |[1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/)| * Binary Prefix Divisible By 5|47%|Easy||
 |[1017](https://leetcode.com/problems/convert-to-base-2/)| * Convert to Base -2|59%|Medium||
@@ -705,7 +705,7 @@
 |[0867](https://leetcode.com/problems/transpose-matrix/)| * Transpose Matrix|62%|Easy||
 |[0866](https://leetcode.com/problems/prime-palindrome/)| * Prime Palindrome|25%|Medium||
 |[0865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)| * Smallest Subtree with all the Deepest Nodes|64%|Medium||
-|[0864](https://leetcode.com/problems/shortest-path-to-get-all-keys/)| * Shortest Path to Get All Keys|42%|Hard||
+|[0864](https://leetcode.com/problems/shortest-path-to-get-all-keys/)| * Shortest Path to Get All Keys|41%|Hard||
 |[0863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| * All Nodes Distance K in Binary Tree|57%|Medium||
 |[0862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)| * Shortest Subarray with Sum at Least K|25%|Hard||
 |[0861](https://leetcode.com/problems/score-after-flipping-matrix/)| * Score After Flipping Matrix|73%|Medium||
@@ -959,7 +959,7 @@
 |[0537](https://leetcode.com/problems/complex-number-multiplication/)| * Complex Number Multiplication|68%|Medium||
 |[0535](https://leetcode.com/problems/encode-and-decode-tinyurl/)| * Encode and Decode TinyURL|80%|Medium||
 |[0532](https://leetcode.com/problems/k-diff-pairs-in-an-array/)| * K-diff Pairs in an Array|35%|Medium||
-|[0530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)| * Minimum Absolute Difference in BST|54%|Easy||
+|[0530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Minimum Absolute Difference in BST](./Algorithms/0530.minimum-absolute-difference-in-bst)|54%|Easy||
 |[0529](https://leetcode.com/problems/minesweeper/)| * Minesweeper|61%|Medium||
 |[0528](https://leetcode.com/problems/random-pick-with-weight/)| * Random Pick with Weight|44%|Medium||
 |[0526](https://leetcode.com/problems/beautiful-arrangement/)| * Beautiful Arrangement|61%|Medium||

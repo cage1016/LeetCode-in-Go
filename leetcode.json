@@ -1,10 +1,10 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-03-03T00:17:59.783234+08:00",
+	"Updated": "2021-03-03T11:03:11.889151+08:00",
 	"Record": {
 		"Easy": {
-			"Solved": 19,
+			"Solved": 20,
 			"Total": 346
 		},
 		"Medium": {
@@ -16,7 +16,7 @@
 			"Total": 303
 		},
 		"Total": {
-			"Solved": 42,
+			"Solved": 43,
 			"Total": 1361
 		}
 	},
@@ -6387,7 +6387,7 @@
 			"TitleSlug": "minimum-absolute-difference-in-bst",
 			"PassRate": "54%",
 			"Difficulty": "Easy",
-			"IsAccepted": false,
+			"IsAccepted": true,
 			"IsPaid": false,
 			"IsFavor": false,
 			"IsNew": false,
@@ -10393,7 +10393,7 @@
 			"ID": 864,
 			"Title": "Shortest Path to Get All Keys",
 			"TitleSlug": "shortest-path-to-get-all-keys",
-			"PassRate": "42%",
+			"PassRate": "41%",
 			"Difficulty": "Hard",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -12265,7 +12265,7 @@
 			"ID": 1020,
 			"Title": "Number of Enclaves",
 			"TitleSlug": "number-of-enclaves",
-			"PassRate": "58%",
+			"PassRate": "59%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -12313,7 +12313,7 @@
 			"ID": 1024,
 			"Title": "Video Stitching",
 			"TitleSlug": "video-stitching",
-			"PassRate": "49%",
+			"PassRate": "48%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -12517,7 +12517,7 @@
 			"ID": 1041,
 			"Title": "Robot Bounded In Circle",
 			"TitleSlug": "robot-bounded-in-circle",
-			"PassRate": "55%",
+			"PassRate": "54%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -12661,7 +12661,7 @@
 			"ID": 1053,
 			"Title": "Previous Permutation With One Swap",
 			"TitleSlug": "previous-permutation-with-one-swap",
-			"PassRate": "51%",
+			"PassRate": "50%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -14125,7 +14125,7 @@
 			"ID": 1175,
 			"Title": "Prime Arrangements",
 			"TitleSlug": "prime-arrangements",
-			"PassRate": "51%",
+			"PassRate": "52%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -20821,7 +20821,7 @@
 			"ID": 1733,
 			"Title": "Minimum Number of People to Teach",
 			"TitleSlug": "minimum-number-of-people-to-teach",
-			"PassRate": "36%",
+			"PassRate": "37%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
@@ -21301,7 +21301,7 @@
 			"ID": 1773,
 			"Title": "Count Items Matching a Rule",
 			"TitleSlug": "count-items-matching-a-rule",
-			"PassRate": "88%",
+			"PassRate": "87%",
 			"Difficulty": "Easy",
 			"IsAccepted": false,
 			"IsPaid": false,
