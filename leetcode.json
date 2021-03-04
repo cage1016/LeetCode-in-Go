@@ -1,7 +1,7 @@
 {
 	"Username": "cage1016",
 	"Ranking": 0,
-	"Updated": "2021-03-05T00:16:21.881946+08:00",
+	"Updated": "2021-03-05T00:40:27.162027+08:00",
 	"Record": {
 		"Easy": {
 			"Solved": 21,
@@ -12661,7 +12661,7 @@
 			"ID": 1053,
 			"Title": "Previous Permutation With One Swap",
 			"TitleSlug": "previous-permutation-with-one-swap",
-			"PassRate": "51%",
+			"PassRate": "50%",
 			"Difficulty": "Medium",
 			"IsAccepted": false,
 			"IsPaid": false,
